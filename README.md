@@ -22,6 +22,8 @@ the UI state.
 We separate *data*, *domain*, and *presentation* layer so that development and testing
 progress is more effective.
 
+![Scheme](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
+
 ### Unit Test
 We do a unit test, such as domain layer like :
 
@@ -31,8 +33,6 @@ We do a unit test, such as domain layer like :
    - models (body & response)
 2. domain layer
    - use case
-
-![Scheme](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
 
 ### Pre-requisites
 (Assumed that you have already install Text Editor (Android Studio or VSCode) & Flutter itself)
