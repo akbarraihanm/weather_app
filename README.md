@@ -17,7 +17,7 @@ Separate UI logic code & UI code, will increase the code performance.
 UI listen to the state & request event to trigger the state, and then BLoC give them the data & manage 
 the UI state.
 
-## Clean Architecture
+### Clean Architecture
 
 We separate *data*, *domain*, and *presentation* layer so that development and testing
 progress is more effective.
@@ -34,7 +34,7 @@ We do a unit test, such as domain layer like :
 
 ![Scheme](https://i0.wp.com/resocoder.com/wp-content/uploads/2019/08/Clean-Architecture-Flutter-Diagram.png?w=556&ssl=1)
 
-## Pre-requisites
+### Pre-requisites
 (Assumed that you have already install Text Editor (Android Studio or VSCode) & Flutter itself)
 
 1. Clone this project using your favorite terminal ([The repo](https://github.com/akbarraihanm/weather_app.git))
