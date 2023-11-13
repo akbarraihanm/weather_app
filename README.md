@@ -27,3 +27,10 @@ progress is more effective.
 ## Pre-requisites
 (Assumed that you have already install Text Editor (Android Studio or VSCode) & Flutter itself)
 
+1. Clone this project using your favorite terminal ([The repo](https://github.com/akbarraihanm/weather_app.git))
+2. After it cloned, run `flutter pub get` in you favorite terminal
+3. Prepare your real device or use Emulator / Simulator
+4. Then run `flutter run -t lib/launcher/main.dart` to run your project into your real device / Emulator / Simulator
+
+## Apk Link
+Here is the ([apk link](https://drive.google.com/file/d/13JISt84Lhcfo9eBZO_935Rj-xh3OJVwe/view?usp=sharing))
